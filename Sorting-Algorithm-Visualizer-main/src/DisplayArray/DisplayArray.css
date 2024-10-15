@@ -1,0 +1,53 @@
+.array-container {
+    /*Flexbox*/
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin: auto;
+    width: 90%;
+    justify-content: space-between;
+    height: 85vh;
+    column-gap: 1px
+}
+
+/* .array-container div:hover {
+    background-color: orangered !important;
+} */
+
+.none,
+.compare,
+.verify,
+.swap,
+.insert,
+.pivot,
+.parser {
+    flex: 1 1 content;
+}
+
+.none {
+    background-color: white;
+}
+
+.compare {
+    background-color: rgb(136, 11, 119);
+}
+
+.verify {
+    background-color: darkgreen;
+}
+
+.swap {
+    background-color: midnightblue
+}
+
+.insert {
+    background-color: crimson
+}
+
+.pivot {
+    background-color: brown;
+}
+
+.parser {
+    background-color: orangered;
+}
