@@ -4,7 +4,7 @@ A website that allows the user to visualize sorting algorithms. The sort type, a
 
 ### How to Run
 
-Simply go to: https://ryanmaxin.github.io/Sorting-Algorithm-Visualizer/
+Simply go to: https://dkaty123.github.io/Sorting-Algorithm-Visualizer/
 
 #### Current Sorts include:
 
